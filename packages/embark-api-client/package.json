@@ -48,7 +48,7 @@
   "dependencies": {
     "@babel/runtime-corejs2": "7.3.1",
     "axios": "0.18.0",
-    "keccakjs": "0.2.3"
+    "keccakjs": "2.0.0"
   },
   "devDependencies": {
     "@babel/cli": "7.2.3",

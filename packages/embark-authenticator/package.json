@@ -49,7 +49,7 @@
     "@babel/runtime-corejs2": "7.3.1",
     "embark-i18n": "^4.1.0-beta.1",
     "embark-utils": "^4.1.0-beta.2",
-    "keccakjs": "0.2.3",
+    "keccakjs": "2.0.0",
     "uuid": "3.3.2"
   },
   "devDependencies": {
